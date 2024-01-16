@@ -1,0 +1,15 @@
+![preview](./.github/preview.png)
+
+> Trilha Explorer - Stage 03
+
+Rocketseat challenge built in order to strengthen technical knowledge in HTML and CSS.
+
+Desafio da Rocketseat construído com intuito de fortalecer conhecimentos técnico em HTML e CSS.
+
+Construção do blog de gatos.
+
+## 🛠 Technologies
+
+- HTML
+- CSS
+- Git e Github
